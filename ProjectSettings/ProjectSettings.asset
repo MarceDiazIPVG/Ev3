@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 8464d4259a594dc4386bb0ab3a447368
+  productGUID: 94668e5868e6b844c973c3bdf3d02ca4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Trabajo1Tanque
+  productName: Ev2_VideoJuegos
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -813,11 +813,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: de2fe4a5-4f5c-43cc-a845-38e01bc2aa29
+  cloudProjectId: 4c4c7c0d-3d51-41f7-9937-8bd88eb13190
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Trabajo1Tanque 2025-04-11_21-46-38
-  organizationId: unity_421d42b723dccc7d0a64
+  projectName: Ev2_VideoJuegos
+  organizationId: unity_36adc83342f36da1a4d7
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
